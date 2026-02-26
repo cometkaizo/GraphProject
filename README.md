@@ -1,4 +1,7 @@
 # GraphProject
+Small shape-drawing and -manipulating program
+
+## Keybinds and Controls
 b -> polyline tool<br>
 u -> rectangle tool<br>
 o -> ellipse tool<br>
